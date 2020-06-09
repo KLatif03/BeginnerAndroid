@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kuliner Khas Kota Tegal</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+</resources>
